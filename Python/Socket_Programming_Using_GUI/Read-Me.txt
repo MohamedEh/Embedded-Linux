@@ -1,0 +1,8 @@
+#This is a project about socket programming used in it tkinter as a gui library to make a simple project that send and receive in both directions, there are some steps to use it:
+1- run both projects.
+2- press connect button on server app to initiate a socket.
+3- press connect button on server app to connect to the server.
+4- press receive on the server app to start connecting to the client and receive the first message.
+5- write the message in the client app and press the send button.
+6- press receive button on the client app to receive from server.
+7- write your message then press send on the server app.
